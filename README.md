@@ -1,2 +1,4 @@
+Online farmer's market platform 
+
 Overview
 The Online Farmer's Market Platform is a web application that connects local farmers with consumers, allowing farmers to sell their fresh produce directly online. Built using Java, the platform follows the Model-View-Controller (MVC) architecture, utilizing Servlets and JSP pages for dynamic content generation and MySQL for data persistence.
